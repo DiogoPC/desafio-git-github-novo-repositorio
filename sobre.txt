@@ -1,0 +1,4 @@
+Comecando a endenter como funciona os comandos do Git e como funciona o gerenciamento e versionamento como GitHub
+
+Fiz um clone de meus projeto no GitHub para minha pasta local e estou editando e adiconando novas funções
+a este projeto.
